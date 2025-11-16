@@ -1,0 +1,493 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Page-1" id="1cpJDzQO9xMu40sLCi-P">
+    <mxGraphModel dx="1737" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-1" value="Animal" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="38" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-2" value="&lt;div&gt;str: zoo_name&lt;/div&gt;str: name_of_animal&lt;div&gt;str: class_of_animal&lt;/div&gt;&lt;div&gt;int: avarage_weight&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="78" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-3" value="метод get_type&lt;div&gt;метод set_type&lt;/div&gt;&lt;div&gt;метод __init__&lt;/div&gt;&lt;div&gt;метод&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;__str_see_class__&lt;/span&gt;&lt;/div&gt;&lt;div&gt;метод adopt_animal&lt;span style=&quot;text-align: left; text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;метод set_new_weight&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="158" width="120" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-4" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="200" as="sourcePoint" />
+            <mxPoint x="280" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-6" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="60" as="sourcePoint" />
+            <mxPoint x="400" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-8" value="&lt;font style=&quot;text-wrap-mode: wrap;&quot;&gt;__init__&lt;/font&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;Входные&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;данные:&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;self&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;name_of_animal&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;calss_of_animal&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;avarage_weight&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="7.5" width="50" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-9" value="avarage_&lt;div&gt;weight&amp;gt;0&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="240" as="sourcePoint" />
+            <mxPoint x="220" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="280" as="sourcePoint" />
+            <mxPoint x="160" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="240" as="sourcePoint" />
+            <mxPoint x="400" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="400" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-14" value="Присваиваем классу переменной данные атрибуты" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-15" value="Вывод&lt;div&gt;&quot;Неверное&lt;/div&gt;&lt;div&gt;значение&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="560" as="sourcePoint" />
+            <mxPoint x="160" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="560" as="sourcePoint" />
+            <mxPoint x="400" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="400" as="sourcePoint" />
+            <mxPoint x="400" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="600" as="sourcePoint" />
+            <mxPoint x="280" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-20" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-21" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="122.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="202.5" as="sourcePoint" />
+            <mxPoint x="690" y="162.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-23" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="22.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-24" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="62.5" as="sourcePoint" />
+            <mxPoint x="810" y="62.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-25" value="__str_see_class__&lt;br&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;Входные&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;данные:&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;self&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="27.5" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-32" value="Вывод&lt;div&gt;класса в&lt;/div&gt;&lt;div&gt;строковом&lt;/div&gt;&lt;div&gt;виде для&amp;nbsp;&lt;/div&gt;&lt;div&gt;просмотра&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="320" as="sourcePoint" />
+            <mxPoint x="690" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-37" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-38" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1095" y="200" as="sourcePoint" />
+            <mxPoint x="1095" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-40" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-41" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1155" y="60" as="sourcePoint" />
+            <mxPoint x="1215" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-42" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;get_type&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;Входные&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;данные:&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;self&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;атрибут класса&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="7.5" width="50" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-49" value="Возвращает&lt;div&gt;значение выбра-&lt;/div&gt;&lt;div&gt;нного атрибута&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-54" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-55" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NkG_4js5x2KBXSH1eeA7-54" target="NkG_4js5x2KBXSH1eeA7-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="330" as="sourcePoint" />
+            <mxPoint x="1100" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-56" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-57" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1480" y="200" as="sourcePoint" />
+            <mxPoint x="1480" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-58" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-59" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1540" y="60" as="sourcePoint" />
+            <mxPoint x="1600" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-60" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;set_type&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;Входные&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;данные:&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;self&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;atribute_of_class&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap;&quot;&gt;new_atribute&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="7.5" width="50" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-61" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-62" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1360" y="238" as="sourcePoint" />
+            <mxPoint x="1420" y="238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-63" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1360" y="278" as="sourcePoint" />
+            <mxPoint x="1360" y="238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-64" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1540" y="240" as="sourcePoint" />
+            <mxPoint x="1690" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-65" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1689" y="280" as="sourcePoint" />
+            <mxPoint x="1689" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-66" value="Присваиваем атрибуту класса&lt;div&gt;новое значение&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="278" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-68" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1360" y="518" as="sourcePoint" />
+            <mxPoint x="1360" y="358" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-69" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1550" y="480" as="sourcePoint" />
+            <mxPoint x="1830" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-70" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1830" y="360" as="sourcePoint" />
+            <mxPoint x="1830" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-71" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1690" y="520" as="sourcePoint" />
+            <mxPoint x="1690" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-72" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-73" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1510" y="220" as="sourcePoint" />
+            <mxPoint x="1530" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-74" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1530" y="200" as="sourcePoint" />
+            <mxPoint x="1590" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-75" value="&lt;span style=&quot;text-align: center; text-wrap-mode: wrap;&quot;&gt;атрибутом&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: wrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;является&lt;/span&gt;&lt;div style=&quot;text-align: center; text-wrap-mode: wrap;&quot;&gt;avarage_weight&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="170" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-76" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1535" y="208" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-77" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="208" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-78" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="208" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-79" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="208" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-80" value="new_atribute&amp;gt;0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-81" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1750" y="320" as="sourcePoint" />
+            <mxPoint x="1830" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-82" value="Присваиваем атрибуту класса&lt;div&gt;новое значение&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-83" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1830" y="480" as="sourcePoint" />
+            <mxPoint x="1830" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-84" value="Вывод&lt;div&gt;&quot;Неверное&lt;/div&gt;&lt;div&gt;значение&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-85" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1550" y="320" as="sourcePoint" />
+            <mxPoint x="1630" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-86" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NkG_4js5x2KBXSH1eeA7-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1500" y="370" as="sourcePoint" />
+            <mxPoint x="1550" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-87" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1550" y="480" as="sourcePoint" />
+            <mxPoint x="1550" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-88" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1360" y="520" as="sourcePoint" />
+            <mxPoint x="1690" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-89" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NkG_4js5x2KBXSH1eeA7-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1460" y="570" as="sourcePoint" />
+            <mxPoint x="1510" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-90" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="290" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-91" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="290" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-92" value="adopt_animal&lt;div&gt;Входные данные:&lt;/div&gt;&lt;div&gt;self&lt;/div&gt;&lt;div&gt;avarage_weight&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="22.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-94" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="122.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-95" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2200" y="202.5" as="sourcePoint" />
+            <mxPoint x="2200" y="162.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-96" value="avarage_&lt;div&gt;weught&amp;lt;40&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="202.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-97" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2080" y="240.5" as="sourcePoint" />
+            <mxPoint x="2140" y="240.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-98" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2080" y="280.5" as="sourcePoint" />
+            <mxPoint x="2080" y="240.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-101" value="Классу присваивается атрибут adopted" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="278" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-105" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2320" y="520" as="sourcePoint" />
+            <mxPoint x="2319.52" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-106" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-111" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="210.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-120" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2080" y="522.5" as="sourcePoint" />
+            <mxPoint x="2320" y="523" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-121" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NkG_4js5x2KBXSH1eeA7-106">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2150" y="570" as="sourcePoint" />
+            <mxPoint x="2200" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-125" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2260" y="240" as="sourcePoint" />
+            <mxPoint x="2320" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-126" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2320" y="280" as="sourcePoint" />
+            <mxPoint x="2320" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-127" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2265" y="208" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-128" value="&quot;Животное&lt;div&gt;невозможно&lt;/div&gt;&lt;div&gt;приютить&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-129" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2080" y="520" as="sourcePoint" />
+            <mxPoint x="2080" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-130" value="set_new_weight&lt;div&gt;Входные данные:&lt;/div&gt;&lt;div&gt;avarage_weight&lt;/div&gt;&lt;div&gt;plus_weight&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="2540" y="22.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-131" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2540" y="122.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-132" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2600" y="202.5" as="sourcePoint" />
+            <mxPoint x="2600" y="162.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-133" value="avarage_&lt;div&gt;weught+plus_&lt;/div&gt;&lt;div&gt;weight&amp;gt;0&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2540" y="202.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-134" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2480" y="240.5" as="sourcePoint" />
+            <mxPoint x="2540" y="240.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-135" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2480" y="280.5" as="sourcePoint" />
+            <mxPoint x="2480" y="240.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-137" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2720" y="520" as="sourcePoint" />
+            <mxPoint x="2719.52" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-138" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2540" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-139" value="False" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="210.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-140" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2480" y="522.5" as="sourcePoint" />
+            <mxPoint x="2720" y="523" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-141" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NkG_4js5x2KBXSH1eeA7-138">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2550" y="570" as="sourcePoint" />
+            <mxPoint x="2600" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-142" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2660" y="240" as="sourcePoint" />
+            <mxPoint x="2720" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-143" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2720" y="280" as="sourcePoint" />
+            <mxPoint x="2720" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-144" value="True" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2665" y="208" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-145" value="&quot;Животное не&amp;nbsp;&lt;div&gt;может иметь&lt;/div&gt;&lt;div&gt;вес меньше 0&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-146" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2480" y="520" as="sourcePoint" />
+            <mxPoint x="2480" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-147" value="set_type&lt;div&gt;Входные данные:&lt;/div&gt;&lt;div&gt;avarage_weight+&lt;/div&gt;&lt;div&gt;plus_weight&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-148" value="Присваиваем классу&lt;div&gt;статический атрибут zoo_name =&lt;/div&gt;&lt;div&gt;&quot;Казанский зоопарк&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NkG_4js5x2KBXSH1eeA7-149" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="560" as="sourcePoint" />
+            <mxPoint x="400" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
